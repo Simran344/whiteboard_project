@@ -7,14 +7,13 @@ This project is a simple online whiteboard application, designed to facilitate c
 - **Drawing Tools**: Includes basic drawing tools such as pen, eraser, and shapes (line, rectangle, circle).
 - **Color Selection**: Allows users to choose from a variety of colors to draw with.
 - **Undo/Redo**: Provides the ability to undo and redo drawing actions.
-- **Collaboration**: Supports real-time collaboration where multiple users can draw simultaneously on the same whiteboard.
 - **Export**: Allows users to export their whiteboard creations as images for sharing or saving.
 
 ## Technologies Used
 
 - **Programming Languages**: JavaScript, HTML, CSS
 - **Libraries/Frameworks**: None
-- **Tools**: Git, GitHub, WebSocket for real-time communication
+- **Tools**: Git, GitHub
 
 ## Project link
 
